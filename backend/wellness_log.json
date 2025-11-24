@@ -1,0 +1,22 @@
+[
+    {
+        "timestamp": "2025-11-24T15:14:57.868450",
+        "mood": "good and relaxed",
+        "energy": "moderate",
+        "objectives": [
+            "finish project report",
+            "go for a gym session",
+            "do whole day journaling"
+        ],
+        "summary": "Suggested a short, mindful break between tasks to help with transition and re-energizing."
+    },
+    {
+        "timestamp": "2025-11-24T15:18:26.291039",
+        "mood": "happy and calm",
+        "energy": "moderate",
+        "objectives": [
+            "take only rest"
+        ],
+        "summary": "Suggested finding a cozy spot, calming music, or a light book for a day of rest."
+    }
+]
